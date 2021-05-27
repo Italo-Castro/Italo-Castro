@@ -1,4 +1,4 @@
-## ITALO CESAR CASTRO-
+## ITALO CESAR CASTRO
 
 -  👋 Hi, I’m @Italo-Castro.
 - 👀 I'm interested in Java programming.
