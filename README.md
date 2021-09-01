@@ -2,7 +2,7 @@
 
 -  👋 Hi, I’m @Italo-Castro.
 - 👀 I'm interested in Java programming.
-- 🌱 I’m currently learning Jpa,Hibernate.
+- 🌱 I’m currently learning Jpa,Hibernate,Spring.
 - 💞️ I’m looking to collaborate on systems development.
 - 📫 How to reach me https://www.linkedin.com/in/italo-castro-3092761b8/
 
