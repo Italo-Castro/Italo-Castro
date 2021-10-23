@@ -1,7 +1,7 @@
 ## ITALO CESAR CASTRO
 
 -  👋 Hi, I’m @Italo-Castro.
-- 🖥I am Java developer.
+- 🖥I' m Java developer.
 - 👀 I'm interested in Java programming and mobile.
 - 🌱 I’m currently learning Jpa,Hibernate,Spring.
 - 💞️ I’m looking to collaborate on systems development.
