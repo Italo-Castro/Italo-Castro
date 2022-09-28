@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Italo-Castro.
 - 🖥 I' m Java developer.
-- 👀 I'm interested in Java Web programming and programming mobile.
+- 👀 I'm interested in  Web programming and programming mobile.
 - 📫 How to reach me
 
   [![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://peppy-creponne-dd78f7.netlify.app)
