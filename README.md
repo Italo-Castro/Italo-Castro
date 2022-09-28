@@ -1,7 +1,7 @@
 ## ITALO CESAR CASTRO
 
 - 👋 Hi, I’m @Italo-Castro.
-- 🖥 I' m Java developer.
+- 🖥 I' m Web developer.
 - 👀 I'm interested in  Web programming and programming mobile.
 - 📫 How to reach me
 
