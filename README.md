@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @Italo-Castro.
 - 🖥 I' m Web developer.
+-  I am graduated in computer science.
 - 👀 I'm interested in  Web programming and programming mobile.
 - 📫 How to reach me
 
