@@ -4,7 +4,7 @@
 - 🖥 I' m Web developer.
 - 🎓 I am graduated in computer science.
 - 👀 I'm interested in  Web programming and programming mobile.
-- 😍❤️ About-me SpringBoot and ReactJS 
+- 😍❤️ Ask me about SpringBoot and ReactJS 
 - 📫 How to reach me
 
   [![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://peppy-creponne-dd78f7.netlify.app)
